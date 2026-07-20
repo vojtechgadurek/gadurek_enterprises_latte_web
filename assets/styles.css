@@ -65,7 +65,7 @@ h1, h2, h3, p, li, a, button, label { overflow-wrap: anywhere; }
   position: absolute;
   inset: 0;
   z-index: -1;
-  background: url('/assets/latte-logo.png') no-repeat 96% 50% / 52% auto;
+  background: url('/assets/latte-logo.svg') no-repeat 96% 50% / 52% auto;
   opacity: .14;
   filter: contrast(1.15);
   mix-blend-mode: multiply;
